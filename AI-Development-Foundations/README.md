@@ -18,6 +18,7 @@
 - [Project & Workshop](#project--workshop)
 - [Contributing](#contributing)
 - [License](#license)
+- [Acknowledgements](#acknowledgements)
 
 ---
 
@@ -33,10 +34,12 @@ Each skill is delivered as a **standalone Markdown training document**, structur
 
 ## Who This Is For
 
-- **Web developers** with solid software fundamentals who want to move into AI development.
-- **Self-taught developers** who want a structured, professional-quality curriculum.
-- **Junior developers** preparing for their first AI-focused role.
-- **Anyone** who prefers to _understand_ AI deeply before _using_ it.
+| Audience                   | Why it fits                                              |
+| -------------------------- | -------------------------------------------------------- |
+| **Web developers**         | Solid software fundamentals, moving into AI development. |
+| **Self-taught developers** | Want a structured, professional-quality curriculum.      |
+| **Junior developers**      | Preparing for their first AI-focused role.               |
+| **Anyone curious**         | Prefer to _understand_ AI deeply before _using_ it.      |
 
 > **No AI background required.** Familiarity with web development concepts (APIs, request/response, environment variables) is helpful but not mandatory.
 
@@ -59,9 +62,10 @@ By the end of this superskill, you will be able to:
 
 ## Repository Structure
 
+```text
 ai-development-foundations/
 │
-├── README.md ← you are here
+├── README.md
 │
 ├── 01-what-is-ai.md
 ├── 02-what-is-ai-development.md
@@ -74,16 +78,8 @@ ai-development-foundations/
 ├── 09-ai-safety-bias-privacy.md
 ├── 10-prompt-injection-and-pii.md
 ├── 11-ai-product-thinking.md
-├── 12-conclusion.md
-│
-├── project/
-│ ├── README.md ← project brief & deliverables
-│ ├── idea-brief-template.md
-│ └── examples/
-│ └── study-assistant-brief.md
-│
-└── workshop/
-└── README.md ← AI Foundations Workshop guide
+└── 12-conclusion.md
+```
 
 ---
 
@@ -125,21 +121,25 @@ ai-development-foundations/
 
 ## Prerequisites
 
-- **Required:** Basic web development experience (you've written code that calls an API).
-- **Helpful:** Familiarity with HTTP request/response, environment variables, and the difference between frontend and backend.
-- **Not required:** Any AI, ML, or mathematics background.
+| Level            | Requirement                                                               |
+| ---------------- | ------------------------------------------------------------------------- |
+| **Required**     | Basic web development experience (you've written code that calls an API). |
+| **Helpful**      | HTTP request/response, environment variables, frontend vs. backend.       |
+| **Not required** | Any AI, ML, or mathematics background.                                    |
 
 ---
 
 ## Learning Path
 
-Skill 1–3 → Understand what AI is and who builds it
-Skill 4–5 → Understand the history and the LLM
-Skill 6–7 → Understand the mechanics (tokens, context, inference)
-Skill 8 → Understand where the value is
-Skill 9–10 → Understand the risks
-Skill 11 → Understand how to think like a product builder
-Skill 12 → Wrap up and prepare for the project
+| Skills   | Theme            | Goal                                           |
+| -------- | ---------------- | ---------------------------------------------- |
+| **1–3**  | Foundations      | Understand what AI is and who builds it        |
+| **4–5**  | History & LLMs   | Understand the history and the LLM             |
+| **6–7**  | Mechanics        | Understand tokens, context, and inference      |
+| **8**    | Business value   | Understand where the value is                  |
+| **9–10** | Risks            | Understand safety, bias, privacy, and security |
+| **11**   | Product thinking | Think like a product builder                   |
+| **12**   | Conclusion       | Wrap up and prepare for the project            |
 
 **Estimated time:** ~4–6 hours of reading + ~3–4 hours of exercises = **~8–10 hours total**, spread across a week or two.
 
@@ -149,9 +149,11 @@ Skill 12 → Wrap up and prepare for the project
 
 This superskill ends with a **project** and a **workshop**, both anchored to your idea brief:
 
-- **Project** — An **AI Product Idea Brief** using the six questions from Skill 11.
-- **Workshop** — An **AI Foundations Workshop** to discuss and refine your brief with peers and your instructor.
-- **One-to-One Session** — Your instructor will review your brief in a 1:1 session.
+| Component              | Description                                                                                |
+| ---------------------- | ------------------------------------------------------------------------------------------ |
+| **Project**            | An **AI Product Idea Brief** using the six questions from Skill 11.                        |
+| **Workshop**           | An **AI Foundations Workshop** to discuss and refine your brief with peers and instructor. |
+| **One-to-One Session** | Your instructor reviews your brief in a 1:1 session.                                       |
 
 ---
 
