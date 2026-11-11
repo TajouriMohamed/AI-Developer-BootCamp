@@ -171,7 +171,7 @@ Please open an **issue** before submitting a pull request for significant change
 
 ## License
 
-This material is provided for **educational use** as part of the AI Developer Bootcamp. See [`LICENSE`](./LICENSE) for details.
+This material is provided for **educational use** as part of the AI Developer Bootcamp.
 
 ---
 
