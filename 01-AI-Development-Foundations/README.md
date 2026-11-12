@@ -145,33 +145,9 @@ ai-development-foundations/
 
 ---
 
-## Project & Workshop
-
-This superskill ends with a **project** and a **workshop**, both anchored to your idea brief:
-
-| Component              | Description                                                                                |
-| ---------------------- | ------------------------------------------------------------------------------------------ |
-| **Project**            | An **AI Product Idea Brief** using the six questions from Skill 11.                        |
-| **Workshop**           | An **AI Foundations Workshop** to discuss and refine your brief with peers and instructor. |
-| **One-to-One Session** | Your instructor reviews your brief in a 1:1 session.                                       |
-
----
-
-## Contributing
-
-This repository is part of a structured bootcamp curriculum. Contributions are welcome in the form of:
-
-- **Corrections** — typos, inaccuracies, unclear explanations.
-- **Examples** — additional worked examples or exercises.
-- **Translations** — localisation into other languages.
-
-Please open an **issue** before submitting a pull request for significant changes.
-
----
-
 ## License
 
-This material is provided for **educational use** as part of the AI Developer Bootcamp.
+> This material is provided for **educational use** as part of the AI Developer Bootcamp.
 
 ---
 
