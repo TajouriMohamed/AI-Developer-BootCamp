@@ -121,7 +121,7 @@ ai-development-foundations/
 
 ## Prerequisites
 
-| Level            | Requirement                                                               |
+| Levels           | Requirements                                                              |
 | ---------------- | ------------------------------------------------------------------------- |
 | **Required**     | Basic web development experience (you've written code that calls an API). |
 | **Helpful**      | HTTP request/response, environment variables, frontend vs. backend.       |
